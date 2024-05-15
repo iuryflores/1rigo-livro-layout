@@ -33,7 +33,7 @@ Este é um projeto Node.js que gera PDFs baseados no layout antigo do livro de p
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/iuryflores/1rigo-livro-layout.git
     ```
 
 2. Navegue até o diretório do projeto:
